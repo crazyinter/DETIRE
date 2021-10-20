@@ -21,21 +21,23 @@ Our codes were all edited by Python 3.6.5 with Keras 1.2.0.
 
 # Usage
 * Users can utilize the trained model in DETIRE directly to test users' query contigs.
+
   To make a prediction, users' own query contigs should be edited into a ".csv" file, where every line contains a single query contig. Run the file in https://github.com/crazyinter/Seq2Vec/blob/master/preprocessing.py to preprocess the testing datasets. And then run the codes below to give a set of scores (output as a .csv file) to each query contig. The first score represents the probability of the query sequence being virus, and the second score represents the probability of the query sequence being non-virus.
-    ```
-    from keras.models import load_model
-    model = load_model('DETIRE_model.h5')
-    y_pred = model.predict([X_test_rnn,X_test_cnn])
-    np.savetxt('y_pred.csv', y_pred, delimiter = ',')  
-    ```
+   ```
+   from keras.models import load_model
+   model = load_model('DETIRE_model.h5')
+   y_pred = model.predict([X_test_rnn,X_test_cnn])
+   np.savetxt('y_pred.csv', y_pred, delimiter = ',')  
+   ```
 * Users can also train DETIRE using your own training datasets.
+
   Run the file in https://github.com/crazyinter/Seq2Vec/blob/master/preprocessing.py to preprocess the training datasets. Then run the file "train_DETIRE.py" to train a new DETIRE model. the hyper-parameters can be set as your own experience or just use the default ones.
   
 
 # Copyright and License Information
 Copyright (C) 2021 Jilin University
 
-Authors: Yan Miao, Fu Liu, Yun Liu
+Authors: Yan Miao, Fu Liu, Tao Hou, Qiaoliang Liu, Tian Dong, Yun Liu
 
 This program is freely available as Python at https://github.com/crazyinter/DETIRE.
 
