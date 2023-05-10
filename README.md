@@ -1,5 +1,5 @@
 # DETIRE
-Version 1.1
+Version 1.2
 
 Authors: Yan Miao, Tianhong Dai
 
