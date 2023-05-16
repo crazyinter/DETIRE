@@ -1,0 +1,700 @@
+contig_id	contig_length	provirus	proviral_length	gene_count	viral_genes	host_genes	checkv_quality	miuvig_quality	completeness	completeness_method	contamination	kmer_freq	warnings
+344	78	No	NA	1	1	0	Low-quality	Genome-fragment	0.15	AAI-based (high-confidence)	0	1	
+772	84	No	NA	1	0	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	no viral genes detected
+800	84	No	NA	1	1	0	Low-quality	Genome-fragment	0.05	AAI-based (high-confidence)	0	1	
+802	84	No	NA	1	1	0	Low-quality	Genome-fragment	0.05	AAI-based (high-confidence)	0	1	
+916	86	No	NA	1	0	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	no viral genes detected
+948	86	No	NA	1	1	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	
+1380	92	No	NA	1	1	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	
+1458	93	No	NA	1	1	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	
+1766	98	No	NA	1	0	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	no viral genes detected
+1770	98	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+1788	98	No	NA	1	1	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	
+2276	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	no viral genes detected
+2312	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+2568	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	no viral genes detected
+2582	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	
+2704	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+2848	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.12	AAI-based (high-confidence)	0	1	
+2988	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+3020	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	
+3218	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	
+3344	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+3382	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+3484	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.04	AAI-based (high-confidence)	0	1	no viral genes detected
+3512	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.21	AAI-based (high-confidence)	0	1	no viral genes detected
+3702	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	no viral genes detected
+3728	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.09	AAI-based (high-confidence)	0	1	
+3800	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	
+3804	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.15	AAI-based (high-confidence)	0	1	no viral genes detected
+4028	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	no viral genes detected
+4516	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.63	AAI-based (high-confidence)	0	1	no viral genes detected
+4662	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	
+4838	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	
+4994	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.3	AAI-based (high-confidence)	0	1	
+5064	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	no viral genes detected
+5082	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	no viral genes detected
+5112	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+5194	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	
+5356	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	
+5496	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+5596	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	
+5614	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	
+5618	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.09	AAI-based (high-confidence)	0	1	
+5776	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+6038	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	no viral genes detected
+6186	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+6356	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.21	AAI-based (high-confidence)	0	1	
+6566	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	
+6570	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.27	AAI-based (high-confidence)	0	1	no viral genes detected
+7002	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.28	AAI-based (high-confidence)	0	1	
+7430	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+7584	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	no viral genes detected
+7966	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+7972	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+8486	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	no viral genes detected
+8626	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	
+8806	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	
+8872	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.29	AAI-based (high-confidence)	0	1	no viral genes detected
+9076	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+9116	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.28	AAI-based (high-confidence)	0	1	no viral genes detected
+9258	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+9304	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	no viral genes detected
+9488	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.25	AAI-based (high-confidence)	0	1	
+9602	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	no viral genes detected
+9918	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	no viral genes detected
+10172	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.26	AAI-based (high-confidence)	0	1	no viral genes detected
+10186	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	no viral genes detected
+10196	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	no viral genes detected
+10260	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.25	AAI-based (high-confidence)	0	1	no viral genes detected
+10428	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.04	AAI-based (high-confidence)	0	1	no viral genes detected
+10546	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	
+10562	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	no viral genes detected
+10680	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+10744	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+10756	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+11000	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.09	AAI-based (high-confidence)	0	1	
+11160	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	no viral genes detected
+11418	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.25	AAI-based (high-confidence)	0	1	
+11878	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	no viral genes detected
+11976	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	
+12146	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	no viral genes detected
+13120	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	no viral genes detected
+13392	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	no viral genes detected
+13404	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	no viral genes detected
+13492	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	
+13748	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	
+13888	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	
+14404	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+14580	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	no viral genes detected
+15164	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.26	AAI-based (high-confidence)	0	1	no viral genes detected
+15284	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+15388	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	no viral genes detected
+15446	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+15494	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	
+15654	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+15792	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+15850	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.33	AAI-based (high-confidence)	0	1	
+15852	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.12	AAI-based (high-confidence)	0	1	no viral genes detected
+15936	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+15996	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	no viral genes detected
+16072	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	
+16172	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+16180	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.26	AAI-based (high-confidence)	0	1	no viral genes detected
+16360	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.25	AAI-based (high-confidence)	0	1	
+16452	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.01	AAI-based (high-confidence)	0	1	
+16940	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	
+17082	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+17582	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.35	AAI-based (high-confidence)	0	1	
+17768	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.15	AAI-based (high-confidence)	0	1	
+17834	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	
+18372	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	no viral genes detected
+18648	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	no viral genes detected
+19008	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	no viral genes detected
+19286	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.27	AAI-based (high-confidence)	0	1	no viral genes detected
+19312	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+19374	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	
+19386	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.25	AAI-based (high-confidence)	0	1	
+19616	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	
+19642	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	no viral genes detected
+19750	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+20010	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.05	AAI-based (high-confidence)	0	1	no viral genes detected
+20272	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	no viral genes detected
+20304	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	no viral genes detected
+20586	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.21	AAI-based (high-confidence)	0	1	no viral genes detected
+20758	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+20816	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+20864	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	no viral genes detected
+20942	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+20968	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	no viral genes detected
+21168	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.25	AAI-based (high-confidence)	0	1	
+21248	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+21424	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	
+21464	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.09	AAI-based (high-confidence)	0	1	
+21480	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+21610	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.09	AAI-based (high-confidence)	0	1	no viral genes detected
+21706	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+22186	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	
+22376	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+22396	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	no viral genes detected
+22724	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.05	AAI-based (high-confidence)	0	1	no viral genes detected
+22904	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+23838	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.1	AAI-based (high-confidence)	0	1	
+23858	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	
+24054	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+24062	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.26	AAI-based (high-confidence)	0	1	no viral genes detected
+24166	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.1	AAI-based (high-confidence)	0	1	no viral genes detected
+24210	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	no viral genes detected
+24372	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+24448	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	no viral genes detected
+24564	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.05	AAI-based (high-confidence)	0	1	
+24636	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.15	AAI-based (high-confidence)	0	1	
+24708	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	
+24752	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	no viral genes detected
+24812	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+24816	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.27	AAI-based (high-confidence)	0	1	no viral genes detected
+24872	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	
+24874	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	no viral genes detected
+25000	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+25006	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+25048	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.25	AAI-based (high-confidence)	0	1	no viral genes detected
+25140	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	no viral genes detected
+25296	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.15	AAI-based (high-confidence)	0	1	no viral genes detected
+25586	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	
+25830	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	
+25940	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	no viral genes detected
+25946	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	
+26086	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	no viral genes detected
+26154	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.29	AAI-based (high-confidence)	0	1	no viral genes detected
+26384	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+26598	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+26740	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+26804	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.33	AAI-based (high-confidence)	0	1	
+26844	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	no viral genes detected
+26886	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+27056	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+27092	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	
+27344	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.26	AAI-based (high-confidence)	0	1	no viral genes detected
+27576	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+27776	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+27828	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.15	AAI-based (high-confidence)	0	1	no viral genes detected
+27942	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.27	AAI-based (high-confidence)	0	1	no viral genes detected
+28062	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.04	AAI-based (high-confidence)	0	1	no viral genes detected
+28192	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	no viral genes detected
+28240	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+28366	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+28500	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+28564	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	
+28606	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	
+28682	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	
+28686	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	no viral genes detected
+28788	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	no viral genes detected
+29042	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.28	AAI-based (high-confidence)	0	1	no viral genes detected
+29510	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	no viral genes detected
+29516	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	
+29776	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.31	AAI-based (high-confidence)	0	1	no viral genes detected
+30258	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	
+30316	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.04	AAI-based (high-confidence)	0	1	no viral genes detected
+30760	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.15	AAI-based (high-confidence)	0	1	
+30820	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	
+30954	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	
+31204	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	
+31888	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+31932	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+31936	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	
+31950	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	no viral genes detected
+31966	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+32004	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	no viral genes detected
+32116	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+32240	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.57	AAI-based (high-confidence)	0	1	no viral genes detected
+32246	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+32416	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.1	AAI-based (high-confidence)	0	1	no viral genes detected
+32524	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	no viral genes detected
+32634	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	
+32710	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	no viral genes detected
+32802	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.03	AAI-based (high-confidence)	0	1	no viral genes detected
+32922	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+33136	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.34	AAI-based (high-confidence)	0	1	
+33364	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.04	AAI-based (high-confidence)	0	1	no viral genes detected
+33370	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.12	AAI-based (high-confidence)	0	1	no viral genes detected
+33752	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	no viral genes detected
+33808	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+33880	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.25	AAI-based (high-confidence)	0	1	no viral genes detected
+34204	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.05	AAI-based (high-confidence)	0	1	
+34382	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.12	AAI-based (high-confidence)	0	1	no viral genes detected
+34414	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	no viral genes detected
+34474	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	
+34636	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	no viral genes detected
+34926	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	no viral genes detected
+35084	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+35516	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	no viral genes detected
+35694	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	no viral genes detected
+35736	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+35900	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	no viral genes detected
+35924	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	no viral genes detected
+36014	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	no viral genes detected
+36806	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+36860	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	
+36870	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+36916	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	no viral genes detected
+36986	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.21	AAI-based (high-confidence)	0	1	no viral genes detected
+37212	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.05	AAI-based (high-confidence)	0	1	
+37358	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	no viral genes detected
+37430	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+37518	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+37520	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	no viral genes detected
+37626	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.25	AAI-based (high-confidence)	0	1	
+37926	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	
+37978	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.04	AAI-based (high-confidence)	0	1	no viral genes detected
+37998	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.28	AAI-based (high-confidence)	0	1	no viral genes detected
+38382	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+38436	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	no viral genes detected
+38534	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+38982	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+39110	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.12	AAI-based (high-confidence)	0	1	
+39240	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+39332	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	
+39440	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	no viral genes detected
+39462	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	no viral genes detected
+39576	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.09	AAI-based (high-confidence)	0	1	
+39586	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+39662	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	no viral genes detected
+39720	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+39902	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	no viral genes detected
+40024	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.34	AAI-based (high-confidence)	0	1	
+40210	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	
+40226	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+40418	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.34	AAI-based (high-confidence)	0	1	no viral genes detected
+40438	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.04	AAI-based (high-confidence)	0	1	no viral genes detected
+40578	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	no viral genes detected
+40850	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	no viral genes detected
+40880	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	
+41328	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+41338	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+41606	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+41884	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+42158	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	no viral genes detected
+42286	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	no viral genes detected
+42386	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	
+42436	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+42694	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+43068	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	
+43076	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.09	AAI-based (high-confidence)	0	1	
+43202	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.09	AAI-based (high-confidence)	0	1	
+43260	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	no viral genes detected
+43516	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	
+43652	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.15	AAI-based (high-confidence)	0	1	
+43814	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.28	AAI-based (high-confidence)	0	1	no viral genes detected
+44176	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	no viral genes detected
+44190	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	
+44392	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+44394	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	no viral genes detected
+44456	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.04	AAI-based (high-confidence)	0	1	no viral genes detected
+44524	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	no viral genes detected
+44552	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+44642	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	no viral genes detected
+44704	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+44904	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.15	AAI-based (high-confidence)	0	1	no viral genes detected
+45100	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	
+45750	100	No	NA	1	0	0	Low-quality	Genome-fragment	2.06	AAI-based (high-confidence)	0	1	no viral genes detected
+45796	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	
+46004	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	no viral genes detected
+46114	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+46180	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	no viral genes detected
+46262	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	
+46582	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	
+46672	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	
+46774	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.27	AAI-based (high-confidence)	0	1	
+46790	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+46988	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+46990	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	no viral genes detected
+47302	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	no viral genes detected
+47360	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.21	AAI-based (high-confidence)	0	1	
+47450	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	
+47738	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+48380	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	
+48476	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	no viral genes detected
+48480	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+48500	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	
+48564	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+48758	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	
+48778	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	
+49034	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.25	AAI-based (high-confidence)	0	1	no viral genes detected
+49042	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	
+49044	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	no viral genes detected
+49102	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+49128	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	
+49240	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	no viral genes detected
+49448	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	no viral genes detected
+49518	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.25	AAI-based (high-confidence)	0	1	
+49522	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+49740	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+49742	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	
+49772	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.26	AAI-based (high-confidence)	0	1	no viral genes detected
+50204	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	no viral genes detected
+50228	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	no viral genes detected
+50318	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	no viral genes detected
+50322	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+50400	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+50596	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	
+50616	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+51522	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+51798	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.09	AAI-based (high-confidence)	0	1	
+51826	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+51972	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+52120	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	no viral genes detected
+52318	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.26	AAI-based (high-confidence)	0	1	no viral genes detected
+52338	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	
+52598	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	no viral genes detected
+52610	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	
+52936	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.09	AAI-based (high-confidence)	0	1	
+52968	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	no viral genes detected
+53254	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+53342	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	
+53544	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	
+53666	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+53814	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	no viral genes detected
+53862	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	
+54144	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+54794	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.09	AAI-based (high-confidence)	0	1	no viral genes detected
+54892	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	no viral genes detected
+54952	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	no viral genes detected
+55046	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+55134	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.09	AAI-based (high-confidence)	0	1	
+55166	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	no viral genes detected
+55282	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	
+55764	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	no viral genes detected
+55768	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	no viral genes detected
+55960	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+56088	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.15	AAI-based (high-confidence)	0	1	
+56296	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	no viral genes detected
+56382	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	
+56426	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	
+56598	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	
+56774	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+56882	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+56990	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.21	AAI-based (high-confidence)	0	1	
+57044	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	
+57166	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+57354	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	no viral genes detected
+57474	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	no viral genes detected
+57690	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	no viral genes detected
+57898	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	no viral genes detected
+58240	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	no viral genes detected
+58834	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.57	AAI-based (high-confidence)	0	1	no viral genes detected
+58940	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.21	AAI-based (high-confidence)	0	1	no viral genes detected
+59548	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	no viral genes detected
+59882	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	
+59892	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	no viral genes detected
+59914	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.27	AAI-based (high-confidence)	0	1	no viral genes detected
+60164	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+60676	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	
+60964	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	
+60982	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+61112	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	
+61204	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+61206	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+61356	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.09	AAI-based (high-confidence)	0	1	no viral genes detected
+61574	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+61838	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+61988	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.09	AAI-based (high-confidence)	0	1	no viral genes detected
+62070	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	
+62222	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.25	AAI-based (high-confidence)	0	1	no viral genes detected
+62374	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	no viral genes detected
+62510	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	no viral genes detected
+62556	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.12	AAI-based (high-confidence)	0	1	no viral genes detected
+62742	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.15	AAI-based (high-confidence)	0	1	
+62826	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+63322	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.04	AAI-based (high-confidence)	0	1	no viral genes detected
+63446	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	
+63510	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	no viral genes detected
+63602	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+64036	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.15	AAI-based (high-confidence)	0	1	no viral genes detected
+64046	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	
+64338	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+64372	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+64422	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+64792	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+64796	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	
+65464	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	no viral genes detected
+65522	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.25	AAI-based (high-confidence)	0	1	
+65726	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.09	AAI-based (high-confidence)	0	1	no viral genes detected
+66050	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	no viral genes detected
+66062	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	
+66372	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	no viral genes detected
+66558	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	no viral genes detected
+66634	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+66662	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+66890	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+67150	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	no viral genes detected
+67330	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	no viral genes detected
+67370	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	no viral genes detected
+67578	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.05	AAI-based (high-confidence)	0	1	no viral genes detected
+67698	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	no viral genes detected
+67770	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+67876	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	no viral genes detected
+68028	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.09	AAI-based (high-confidence)	0	1	
+68110	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	
+68408	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	no viral genes detected
+68514	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+68708	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	no viral genes detected
+68770	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.35	AAI-based (high-confidence)	0	1	no viral genes detected
+68972	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	
+69114	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	no viral genes detected
+69260	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.09	AAI-based (high-confidence)	0	1	no viral genes detected
+69452	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	no viral genes detected
+69724	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	no viral genes detected
+70096	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+70860	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	no viral genes detected
+71028	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	no viral genes detected
+71182	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	no viral genes detected
+71348	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	
+71416	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	no viral genes detected
+71558	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	
+71652	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	no viral genes detected
+71760	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+71906	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	
+72178	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	
+72316	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	no viral genes detected
+72334	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+72382	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+72476	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.25	AAI-based (high-confidence)	0	1	no viral genes detected
+72486	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+72512	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+72528	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+72612	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	no viral genes detected
+72630	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	no viral genes detected
+73406	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	no viral genes detected
+73506	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	no viral genes detected
+73574	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	no viral genes detected
+73718	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.21	AAI-based (high-confidence)	0	1	no viral genes detected
+73796	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.21	AAI-based (high-confidence)	0	1	no viral genes detected
+73864	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	
+73918	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+74032	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	
+74052	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	
+74108	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	no viral genes detected
+74194	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	no viral genes detected
+74248	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	no viral genes detected
+74384	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	no viral genes detected
+74546	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.03	AAI-based (high-confidence)	0	1	no viral genes detected
+74604	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	
+74936	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	no viral genes detected
+74940	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	
+75116	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+75162	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+75328	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.03	AAI-based (high-confidence)	0	1	
+75420	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	no viral genes detected
+75490	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.04	AAI-based (high-confidence)	0	1	no viral genes detected
+75600	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+75604	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.29	AAI-based (high-confidence)	0	1	no viral genes detected
+75684	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	no viral genes detected
+75686	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	no viral genes detected
+75774	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	no viral genes detected
+76084	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	no viral genes detected
+76316	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	
+76682	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+76802	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	no viral genes detected
+77088	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.1	AAI-based (high-confidence)	0	1	no viral genes detected
+77228	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	
+77250	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+77300	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	
+77344	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.06	AAI-based (high-confidence)	0	1	
+77358	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	no viral genes detected
+77382	100	No	NA	1	0	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	no viral genes detected
+77546	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+77612	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+77888	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+78148	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+78196	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	
+78356	100	No	NA	1	1	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	
+78586	103	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+78622	104	No	NA	1	1	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	
+78624	104	No	NA	1	1	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	
+78640	105	No	NA	1	0	0	Low-quality	Genome-fragment	0.07	AAI-based (high-confidence)	0	1	no viral genes detected
+78668	106	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+78722	108	No	NA	1	0	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	no viral genes detected
+78802	111	No	NA	1	1	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	
+78812	111	No	NA	1	1	0	Low-quality	Genome-fragment	0.15	AAI-based (high-confidence)	0	1	
+78852	114	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+78896	116	No	NA	1	1	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	
+78936	118	No	NA	1	0	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	no viral genes detected
+79060	125	No	NA	1	1	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	
+79108	128	No	NA	1	0	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	no viral genes detected
+79116	129	No	NA	2	1	0	Low-quality	Genome-fragment	0.25	AAI-based (high-confidence)	0	1	
+79118	129	No	NA	1	1	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	
+79126	129	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+79140	130	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+79154	130	No	NA	1	1	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	
+79156	130	No	NA	1	1	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	
+79182	132	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+79205	133	No	NA	1	1	0	Low-quality	Genome-fragment	0.1	AAI-based (high-confidence)	0	1	
+79209	133	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+79229	134	No	NA	1	0	0	Low-quality	Genome-fragment	0.1	AAI-based (high-confidence)	0	1	no viral genes detected
+79251	135	No	NA	1	1	0	Low-quality	Genome-fragment	0.08	AAI-based (high-confidence)	0	1	
+79269	136	No	NA	1	1	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	
+79299	137	No	NA	1	0	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	no viral genes detected
+79361	140	No	NA	1	1	0	Low-quality	Genome-fragment	0.27	AAI-based (high-confidence)	0	1	
+79379	141	No	NA	1	1	0	Low-quality	Genome-fragment	0.29	AAI-based (high-confidence)	0	1	
+79395	141	No	NA	1	1	0	Low-quality	Genome-fragment	0.27	AAI-based (high-confidence)	0	1	
+79403	142	No	NA	1	1	0	Low-quality	Genome-fragment	0.27	AAI-based (high-confidence)	0	1	
+79439	143	No	NA	1	0	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	no viral genes detected
+79465	144	No	NA	1	1	0	Low-quality	Genome-fragment	0.09	AAI-based (high-confidence)	0	1	
+79551	148	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+79553	148	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+79569	149	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+79591	150	No	NA	1	1	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	
+79623	151	No	NA	1	1	0	Low-quality	Genome-fragment	0.09	AAI-based (high-confidence)	0	1	
+79633	151	No	NA	1	1	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	
+79667	151	No	NA	1	1	0	Low-quality	Genome-fragment	0.29	AAI-based (high-confidence)	0	1	
+79675	152	No	NA	1	0	0	Low-quality	Genome-fragment	0.1	AAI-based (high-confidence)	0	1	no viral genes detected
+79679	152	No	NA	1	1	0	Low-quality	Genome-fragment	0.29	AAI-based (high-confidence)	0	1	
+79683	152	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+79685	152	No	NA	1	1	0	Low-quality	Genome-fragment	0.37	AAI-based (high-confidence)	0	1	
+79699	152	No	NA	1	0	0	Low-quality	Genome-fragment	0.14	AAI-based (medium-confidence)	0	1	no viral genes detected
+79713	152	No	NA	1	1	0	Low-quality	Genome-fragment	0.1	AAI-based (high-confidence)	0	1	
+79731	153	No	NA	1	0	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	no viral genes detected
+79755	153	No	NA	1	1	0	Low-quality	Genome-fragment	0.24	AAI-based (high-confidence)	0	1	
+79777	153	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+79781	153	No	NA	1	1	0	Low-quality	Genome-fragment	0.37	AAI-based (high-confidence)	0	1	
+79856	155	No	NA	1	1	0	Low-quality	Genome-fragment	0.27	AAI-based (high-confidence)	0	1	
+79860	155	No	NA	1	1	0	Low-quality	Genome-fragment	0.52	AAI-based (high-confidence)	0	1	
+79876	155	No	NA	1	1	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+79882	156	No	NA	1	1	0	Low-quality	Genome-fragment	0.26	AAI-based (high-confidence)	0	1	
+79902	156	No	NA	1	1	0	Low-quality	Genome-fragment	0.31	AAI-based (high-confidence)	0	1	
+79958	157	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+79962	157	No	NA	1	1	0	Low-quality	Genome-fragment	0.1	AAI-based (high-confidence)	0	1	
+79972	158	No	NA	1	1	0	Low-quality	Genome-fragment	0.25	AAI-based (high-confidence)	0	1	
+80020	159	No	NA	1	1	0	Low-quality	Genome-fragment	0.28	AAI-based (high-confidence)	0	1	
+80022	159	No	NA	1	1	0	Low-quality	Genome-fragment	0.21	AAI-based (high-confidence)	0	1	
+80028	159	No	NA	1	1	0	Low-quality	Genome-fragment	0.1	AAI-based (high-confidence)	0	1	
+80050	160	No	NA	1	1	0	Low-quality	Genome-fragment	0.32	AAI-based (high-confidence)	0	1	
+80052	160	No	NA	1	1	0	Low-quality	Genome-fragment	0.31	AAI-based (high-confidence)	0	1	
+80054	160	No	NA	1	1	0	Low-quality	Genome-fragment	0.31	AAI-based (high-confidence)	0	1	
+80062	160	No	NA	1	1	0	Low-quality	Genome-fragment	0.1	AAI-based (high-confidence)	0	1	
+80090	161	No	NA	1	1	0	Low-quality	Genome-fragment	0.21	AAI-based (high-confidence)	0	1	
+80146	162	No	NA	1	0	0	Low-quality	Genome-fragment	0.29	AAI-based (high-confidence)	0	1	no viral genes detected
+80150	162	No	NA	1	1	0	Low-quality	Genome-fragment	0.1	AAI-based (high-confidence)	0	1	
+80164	163	No	NA	1	1	0	Low-quality	Genome-fragment	0.55	AAI-based (high-confidence)	0	1	
+80168	163	No	NA	1	1	0	Low-quality	Genome-fragment	0.27	AAI-based (high-confidence)	0	1	
+80176	163	No	NA	1	1	0	Low-quality	Genome-fragment	0.32	AAI-based (medium-confidence)	0	1	
+80178	163	No	NA	1	1	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	
+80184	163	No	NA	1	1	0	Low-quality	Genome-fragment	0.28	AAI-based (high-confidence)	0	1	
+80200	163	No	NA	1	0	0	Low-quality	Genome-fragment	0.1	AAI-based (high-confidence)	0	1	no viral genes detected
+80204	163	No	NA	1	1	0	Low-quality	Genome-fragment	0.21	AAI-based (high-confidence)	0	1	
+80246	165	No	NA	1	0	0	Low-quality	Genome-fragment	0.3	AAI-based (high-confidence)	0	1	no viral genes detected
+80250	165	No	NA	1	1	0	Low-quality	Genome-fragment	0.29	AAI-based (high-confidence)	0	1	
+80256	165	No	NA	1	0	0	Low-quality	Genome-fragment	0.31	AAI-based (high-confidence)	0	1	no viral genes detected
+80286	166	No	NA	1	0	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	no viral genes detected
+80296	166	No	NA	1	1	0	Low-quality	Genome-fragment	0.28	AAI-based (high-confidence)	0	1	
+80302	166	No	NA	1	0	0	Low-quality	Genome-fragment	0.28	AAI-based (high-confidence)	0	1	no viral genes detected
+80344	167	No	NA	1	1	0	Low-quality	Genome-fragment	0.32	AAI-based (high-confidence)	0	1	
+80366	168	No	NA	1	0	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	no viral genes detected
+80382	168	No	NA	1	1	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	
+80384	168	No	NA	1	1	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	
+80390	168	No	NA	1	1	0	Low-quality	Genome-fragment	0.32	AAI-based (high-confidence)	0	1	
+80400	168	No	NA	1	0	0	Low-quality	Genome-fragment	0.36	AAI-based (high-confidence)	0	1	no viral genes detected
+80406	169	No	NA	1	1	0	Low-quality	Genome-fragment	0.32	AAI-based (high-confidence)	0	1	
+80410	169	No	NA	1	1	0	Low-quality	Genome-fragment	0.3	AAI-based (high-confidence)	0	1	
+80430	169	No	NA	1	1	0	Low-quality	Genome-fragment	0.15	AAI-based (high-confidence)	0	1	
+80442	170	No	NA	1	1	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	
+80466	170	No	NA	1	1	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	
+80470	170	No	NA	1	1	0	Low-quality	Genome-fragment	0.3	AAI-based (high-confidence)	0	1	
+80474	170	No	NA	1	1	0	Low-quality	Genome-fragment	0.32	AAI-based (high-confidence)	0	1	
+80512	171	No	NA	1	0	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	no viral genes detected
+80554	173	No	NA	1	1	0	Low-quality	Genome-fragment	0.25	AAI-based (high-confidence)	0	1	
+80562	173	No	NA	1	1	0	Low-quality	Genome-fragment	0.33	AAI-based (high-confidence)	0	1	
+80597	175	No	NA	1	1	0	Low-quality	Genome-fragment	0.42	AAI-based (high-confidence)	0	1	
+80599	175	No	NA	1	0	0	Low-quality	Genome-fragment	0.6	AAI-based (high-confidence)	0	1	no viral genes detected
+80619	175	No	NA	2	1	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	
+80655	178	No	NA	1	1	0	Low-quality	Genome-fragment	0.15	AAI-based (high-confidence)	0	1	
+80657	178	No	NA	1	1	0	Low-quality	Genome-fragment	0.29	AAI-based (high-confidence)	0	1	
+80675	179	No	NA	1	1	0	Low-quality	Genome-fragment	0.31	AAI-based (high-confidence)	0	1	
+80691	182	No	NA	1	1	0	Low-quality	Genome-fragment	0.11	AAI-based (high-confidence)	0	1	
+80701	183	No	NA	1	1	0	Low-quality	Genome-fragment	0.35	AAI-based (high-confidence)	0	1	
+80711	184	No	NA	1	1	0	Low-quality	Genome-fragment	0.26	AAI-based (high-confidence)	0	1	
+80727	185	No	NA	1	1	0	Low-quality	Genome-fragment	0.31	AAI-based (high-confidence)	0	1	
+80739	186	No	NA	1	1	0	Low-quality	Genome-fragment	0.12	AAI-based (high-confidence)	0	1	
+80749	187	No	NA	1	1	0	Low-quality	Genome-fragment	0.36	AAI-based (high-confidence)	0	1	
+80771	189	No	NA	1	1	0	Low-quality	Genome-fragment	0.12	AAI-based (high-confidence)	0	1	
+80775	189	No	NA	1	1	0	Low-quality	Genome-fragment	0.25	AAI-based (high-confidence)	0	1	
+80785	189	No	NA	1	1	0	Low-quality	Genome-fragment	0.33	AAI-based (high-confidence)	0	1	
+80797	190	No	NA	1	1	0	Low-quality	Genome-fragment	0.27	AAI-based (high-confidence)	0	1	
+80829	193	No	NA	1	1	0	Low-quality	Genome-fragment	0.12	AAI-based (high-confidence)	0	1	
+80835	193	No	NA	1	1	0	Low-quality	Genome-fragment	0.12	AAI-based (high-confidence)	0	1	
+80843	194	No	NA	1	1	0	Low-quality	Genome-fragment	0.34	AAI-based (high-confidence)	0	1	
+80881	198	No	NA	1	1	0	Low-quality	Genome-fragment	0.28	AAI-based (high-confidence)	0	1	
+80893	200	No	NA	1	1	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	
+80907	200	No	NA	1	1	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	
+80927	203	No	NA	1	1	0	Low-quality	Genome-fragment	0.3	AAI-based (high-confidence)	0	1	
+80929	204	No	NA	1	1	0	Low-quality	Genome-fragment	0.34	AAI-based (high-confidence)	0	1	
+80977	209	No	NA	1	1	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	
+80983	209	No	NA	1	1	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	
+80985	210	No	NA	1	1	0	Low-quality	Genome-fragment	0.37	AAI-based (high-confidence)	0	1	
+80987	210	No	NA	1	1	0	Low-quality	Genome-fragment	0.28	AAI-based (high-confidence)	0	1	
+80993	211	No	NA	1	1	0	Low-quality	Genome-fragment	0.41	AAI-based (high-confidence)	0	1	
+80995	211	No	NA	1	1	0	Low-quality	Genome-fragment	0.27	AAI-based (high-confidence)	0	1	
+81007	212	No	NA	1	1	0	Low-quality	Genome-fragment	0.31	AAI-based (high-confidence)	0	1	
+81019	213	No	NA	1	1	0	Low-quality	Genome-fragment	0.28	AAI-based (high-confidence)	0	1	
+81039	215	No	NA	1	1	0	Low-quality	Genome-fragment	0.13	AAI-based (high-confidence)	0	1	
+81069	219	No	NA	1	1	0	Low-quality	Genome-fragment	0.29	AAI-based (high-confidence)	0	1	
+81073	219	No	NA	1	1	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	
+81101	224	No	NA	1	1	0	Low-quality	Genome-fragment	0.14	AAI-based (high-confidence)	0	1	
+81111	226	No	NA	1	1	0	Low-quality	Genome-fragment	0.32	AAI-based (high-confidence)	0	1	
+81129	230	No	NA	1	0	0	Low-quality	Genome-fragment	0.41	AAI-based (high-confidence)	0	1	no viral genes detected
+81131	231	No	NA	1	1	0	Low-quality	Genome-fragment	0.15	AAI-based (high-confidence)	0	1	
+81139	233	No	NA	2	2	0	Low-quality	Genome-fragment	0.15	AAI-based (high-confidence)	0	1	
+81153	234	No	NA	1	1	0	Low-quality	Genome-fragment	0.4	AAI-based (high-confidence)	0	1	
+81173	239	No	NA	1	1	0	Low-quality	Genome-fragment	0.48	AAI-based (high-confidence)	0	1	
+81179	239	No	NA	2	1	0	Low-quality	Genome-fragment	0.15	AAI-based (high-confidence)	0	1	
+81185	240	No	NA	1	1	0	Low-quality	Genome-fragment	0.46	AAI-based (high-confidence)	0	1	
+81187	241	No	NA	2	2	0	Low-quality	Genome-fragment	0.32	AAI-based (high-confidence)	0	1	
+81191	242	No	NA	1	1	0	Low-quality	Genome-fragment	0.15	AAI-based (high-confidence)	0	1	
+81197	244	No	NA	1	0	0	Low-quality	Genome-fragment	0.13	AAI-based (medium-confidence)	0	1	no viral genes detected
+81225	252	No	NA	1	1	0	Low-quality	Genome-fragment	0.33	AAI-based (high-confidence)	0	1	
+81227	252	No	NA	2	2	0	Low-quality	Genome-fragment	0.36	AAI-based (high-confidence)	0	1	
+81241	254	No	NA	1	1	0	Low-quality	Genome-fragment	0.43	AAI-based (high-confidence)	0	1	
+81253	256	No	NA	1	1	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	
+81259	256	No	NA	2	2	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	
+81263	257	No	NA	1	1	0	Low-quality	Genome-fragment	0.16	AAI-based (high-confidence)	0	1	
+81269	260	No	NA	1	1	0	Low-quality	Genome-fragment	0.36	AAI-based (high-confidence)	0	1	
+81273	260	No	NA	1	1	0	Low-quality	Genome-fragment	0.34	AAI-based (high-confidence)	0	1	
+81291	262	No	NA	2	0	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	no viral genes detected
+81303	265	No	NA	1	1	0	Low-quality	Genome-fragment	0.38	AAI-based (high-confidence)	0	1	
+81305	266	No	NA	1	1	0	Low-quality	Genome-fragment	0.51	AAI-based (high-confidence)	0	1	
+81307	269	No	NA	2	2	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	
+81311	271	No	NA	1	1	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	
+81315	272	No	NA	1	0	0	Low-quality	Genome-fragment	0.36	AAI-based (high-confidence)	0	1	no viral genes detected
+81323	274	No	NA	1	1	0	Low-quality	Genome-fragment	0.17	AAI-based (high-confidence)	0	1	
+81337	281	No	NA	1	1	0	Low-quality	Genome-fragment	0.18	AAI-based (high-confidence)	0	1	
+81339	282	No	NA	1	1	0	Low-quality	Genome-fragment	0.48	AAI-based (high-confidence)	0	1	
+81349	284	No	NA	1	1	0	Low-quality	Genome-fragment	0.41	AAI-based (high-confidence)	0	1	
+81359	290	No	NA	1	0	0	Low-quality	Genome-fragment	0.38	AAI-based (high-confidence)	0	1	no viral genes detected
+81371	296	No	NA	1	1	0	Low-quality	Genome-fragment	0.19	AAI-based (high-confidence)	0	1	
+81377	299	No	NA	1	1	0	Low-quality	Genome-fragment	0.42	AAI-based (high-confidence)	0	1	
+81383	300	No	NA	1	1	0	Low-quality	Genome-fragment	0.43	AAI-based (high-confidence)	0	1	
+81385	300	No	NA	1	1	0	Low-quality	Genome-fragment	0.6	AAI-based (high-confidence)	0	1	
+81409	317	No	NA	1	1	0	Low-quality	Genome-fragment	0.41	AAI-based (high-confidence)	0	1	
+81415	321	No	NA	2	2	0	Low-quality	Genome-fragment	0.2	AAI-based (high-confidence)	0	1	
+81417	326	No	NA	2	2	0	Low-quality	Genome-fragment	0.3	AAI-based (high-confidence)	0	1	
+81425	331	No	NA	2	2	0	Low-quality	Genome-fragment	0.21	AAI-based (high-confidence)	0	1	
+81441	350	No	NA	1	1	0	Low-quality	Genome-fragment	0.22	AAI-based (high-confidence)	0	1	
+81445	352	No	NA	2	1	0	Low-quality	Genome-fragment	0.51	AAI-based (high-confidence)	0	1	
+81447	353	No	NA	2	2	0	Low-quality	Genome-fragment	0.51	AAI-based (high-confidence)	0	1	
+81455	374	No	NA	2	2	0	Low-quality	Genome-fragment	0.23	AAI-based (high-confidence)	0	1	
+81459	381	No	NA	1	1	0	Low-quality	Genome-fragment	0.73	AAI-based (high-confidence)	0	1	
+81469	389	No	NA	1	0	0	Low-quality	Genome-fragment	0.56	AAI-based (high-confidence)	0	1	no viral genes detected
+81471	391	No	NA	1	1	0	Low-quality	Genome-fragment	0.51	AAI-based (high-confidence)	0	1	
+81481	413	No	NA	2	2	0	Low-quality	Genome-fragment	0.59	AAI-based (high-confidence)	0	1	
+81487	424	No	NA	3	2	0	Low-quality	Genome-fragment	0.27	AAI-based (high-confidence)	0	1	
+81497	438	No	NA	1	1	0	Low-quality	Genome-fragment	0.28	AAI-based (high-confidence)	0	1	
+81499	448	No	NA	1	1	0	Low-quality	Genome-fragment	0.28	AAI-based (high-confidence)	0	1	
+81501	448	No	NA	1	1	0	Low-quality	Genome-fragment	0.28	AAI-based (high-confidence)	0	1	
+81503	449	No	NA	1	1	0	Low-quality	Genome-fragment	0.28	AAI-based (high-confidence)	0	1	
+81505	449	No	NA	1	0	0	Low-quality	Genome-fragment	0.91	AAI-based (medium-confidence)	0	1	no viral genes detected
+81507	460	No	NA	2	1	0	Low-quality	Genome-fragment	0.85	AAI-based (high-confidence)	0	1	
+81513	490	No	NA	1	1	0	Low-quality	Genome-fragment	0.31	AAI-based (high-confidence)	0	1	
+81523	569	No	NA	2	2	0	Low-quality	Genome-fragment	0.82	AAI-based (high-confidence)	0	1	
+81533	672	No	NA	3	2	0	Low-quality	Genome-fragment	0.42	AAI-based (high-confidence)	0	1	
+81535	724	No	NA	1	1	0	Low-quality	Genome-fragment	0.45	AAI-based (high-confidence)	0	1	
+									0.190272206303725				
